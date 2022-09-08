@@ -1,1 +1,1 @@
-뭔가 이상해
+one은 ignore two는 그대로
